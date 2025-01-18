@@ -1,0 +1,112 @@
+1. kinopoisk.ru
+Domain Information
+Domain:
+kinopoisk.ru
+Registrar:
+RU-CENTER-RU
+Registered On:
+2003-07-14
+Expires On:
+2025-07-14
+Status:
+REGISTERED, DELEGATED, VERIFIED
+Name Servers:
+ns3.yandex.ru.
+ns4.yandex.ru.
+
+
+2. netflix.com
+Domain Information
+Domain:
+netflix.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+1997-11-11
+Expires On:
+2025-11-10
+Updated On:
+2023-10-09
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns-1372.awsdns-43.org
+ns-1984.awsdns-56.co.uk
+ns-659.awsdns-18.net
+ns-81.awsdns-10.com
+
+
+3. symptom.jewelry
+Domain Information
+Domain:
+symptom.jewelry
+Registrar:
+Registrar of Domain Names REG.RU LLC
+Registered On:
+2019-06-25
+Expires On:
+2025-06-25
+Updated On:
+2024-12-05
+Status:
+clientTransferProhibited
+Name Servers:
+ns3.insales.ru
+ns4.insales.ru
+
+
+4. tumblr.com
+Domain Information
+Domain:
+tumblr.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+2006-06-08
+Expires On:
+2025-06-08
+Updated On:
+2023-05-08
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1.tumblr.com
+ns2.tumblr.com
+ns3.tumblr.com
+ns4.tumblr.com
+
+
+5. youtube.com
+Domain Information
+Domain:
+youtube.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+2005-02-15
+Expires On:
+2026-02-15
+Updated On:
+2025-01-14
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
