@@ -1,0 +1,36 @@
+liuch@DESKTOP-IMM3CFI MINGW64 ~
+$ ping 143.198.47.215
+
+Pinging 143.198.47.215 with 32 bytes of data:
+Reply from 143.198.47.215: bytes=32 time=31ms TTL=50
+Reply from 143.198.47.215: bytes=32 time=18ms TTL=50
+Reply from 143.198.47.215: bytes=32 time=17ms TTL=50
+Reply from 143.198.47.215: bytes=32 time=18ms TTL=50
+
+Ping statistics for 143.198.47.215:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 31ms, Average = 21ms
+
+liuch@DESKTOP-IMM3CFI MINGW64 ~
+$
+
+
+----------------------------------------------------------------------------------------------------------
+
+liuch@DESKTOP-IMM3CFI MINGW64 ~
+$ ping 143.198.47.215 -w 10
+
+Pinging 143.198.47.215 with 32 bytes of data:
+Request timed out.
+Reply from 143.198.47.215: bytes=32 time=18ms TTL=50
+Reply from 143.198.47.215: bytes=32 time=18ms TTL=50
+Reply from 143.198.47.215: bytes=32 time=18ms TTL=50
+
+Ping statistics for 143.198.47.215:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 18ms, Average = 18ms
+
+liuch@DESKTOP-IMM3CFI MINGW64 ~
+$

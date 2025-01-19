@@ -1,0 +1,18 @@
+root@comp3134-intro-to-cyber-security:~# traceroute georgebrown.ca
+traceroute to georgebrown.ca (198.96.86.176), 30 hops max, 60 byte packets
+ 1  162.243.190.9 (162.243.190.9)  1.395 ms  1.380 ms  1.360 ms
+ 2  143.244.192.126 (143.244.192.126)  1.517 ms 143.244.192.136 (143.244.192.136)  1.537 ms  1.765 ms
+ 3  143.244.224.48 (143.244.224.48)  1.688 ms 143.244.224.50 (143.244.224.50)  1.789 ms 143.244.224.42 (143.244.224.42)  1.682 ms
+ 4  143.244.224.47 (143.244.224.47)  1.505 ms 143.244.224.37 (143.244.224.37)  1.527 ms 143.244.224.45 (143.244.224.45)  1.551 ms
+ 5  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  2.181 ms  2.247 ms  2.311 ms
+ 6  gbrownc-ut-hub-if-internet.gtanet.ca (205.211.94.174)  1.943 ms  0.616 ms  0.604 ms
+ 7  insite.georgebrown.ca (198.96.86.176)  1.575 ms  2.278 ms  2.216 ms
+ 8  * * *
+ 9  impact.georgebrown.ca (198.96.86.176)  2.635 ms  2.710 ms  2.602 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * 198.96.86.167 (198.96.86.167)  998.574 ms !H *
+root@comp3134-intro-to-cyber-security:~#

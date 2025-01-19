@@ -1,0 +1,45 @@
+1. overthewire.org
+	
+IP Address                   Type    Hosted by                        Location
+----------------------------------------------------------------------------------------------
+172.67.140.53        	     IPv4    Hosted by Cloudflare, Inc.       United States of America
+104.21.46.149                IPv4    Hosted by Cloudflare, Inc.       United States of America
+2606:4700:3031::ac43:8c35    IPv6    Hosted by Cloudflare, Inc.       United States of America
+2606:4700:3033::6815:2e95    IPv6    Hosted by Cloudflare, Inc.       United States of America
+
+
+2. canada.ca
+
+IP Address           Type    Hosted by                              Location
+--------------------------------------------------------------------------------
+205.193.117.159      IPv4    Hosted by Shared Services Canada       Canada
+167.40.79.24         IPv4    Hosted by Shared Services Canada       Canada
+160.106.123.29       IPv4    Hosted by Shared Services Canada       Canada
+205.193.215.159      IPv4    Hosted by Shared Services Canada       Canada
+
+
+3. learn.georgebrown.ca
+
+IP Address           Type    Hosted by                        Location
+-------------------------------------------------------------------------
+15.222.224.63        IPv4    Hosted by Amazon.com, Inc.       Canada
+35.183.218.4         IPv4    Hosted by Amazon.com, Inc.       Canada
+
+
+4. whois.com
+
+IP Address           Type    Hosted by                        Location
+---------------------------------------------------------------------------------------
+173.199.130.30       IPv4    Hosted by Liquid Web, L.L.C.     United States of America
+
+
+5. sch1287s.mskobr.ru
+
+IP Address           Type    Hosted by                        Location
+---------------------------------------------------------------------------------
+94.79.51.12          IPv4    Hosted by GKU "Mosgortelecom"    Russian Federation
+94.79.51.13          IPv4    Hosted by GKU "Mosgortelecom"    Russian Federation
+94.79.51.14          IPv4    Hosted by GKU "Mosgortelecom"    Russian Federation
+
+
+

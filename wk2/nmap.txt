@@ -1,0 +1,61 @@
+1. nmap {host_name}
+
+root@comp3134-intro-to-cyber-security:~# nmap georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-19 02:11 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0019s latency).
+rDNS record for 198.96.86.176: insite.georgebrown.ca
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.60 seconds
+
+
+2. nmap -p {port_number} {host_name}
+
+root@comp3134-intro-to-cyber-security:~# nmap -p 80 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-19 02:12 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0021s latency).
+rDNS record for 198.96.86.176: impact.georgebrown.ca
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+
+
+3. nmap -p {start_port_range}-{end_port_range} {host_name}
+
+root@comp3134-intro-to-cyber-security:~# nmap -p 20-25 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-19 02:13 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0022s latency).
+rDNS record for 198.96.86.176: impact.georgebrown.ca
+
+PORT   STATE    SERVICE
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+24/tcp filtered priv-mail
+25/tcp filtered smtp
+
+Nmap done: 1 IP address (1 host up) scanned in 1.25 seconds
+
+
+4. nmap -F {host_name}
+
+root@comp3134-intro-to-cyber-security:~# nmap -F georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-19 02:15 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0024s latency).
+rDNS record for 198.96.86.176: dmzrdr01.georgebrown.ca
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.06 seconds
