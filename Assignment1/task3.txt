@@ -1,0 +1,12 @@
+C:\Users\Любочка>ping amazon.com
+
+Pinging amazon.com [205.251.242.103] with 32 bytes of data:
+Reply from 205.251.242.103: bytes=32 time=62ms TTL=239
+Reply from 205.251.242.103: bytes=32 time=59ms TTL=239
+Reply from 205.251.242.103: bytes=32 time=70ms TTL=239
+Reply from 205.251.242.103: bytes=32 time=41ms TTL=239
+
+Ping statistics for 205.251.242.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 41ms, Maximum = 70ms, Average = 58ms
