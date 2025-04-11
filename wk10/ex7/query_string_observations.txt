@@ -1,0 +1,4 @@
+1) It gives a definition.
+2) Message displayed "No results found for aergilay Did you mean Vergilian?"
+3) Redirects to a broken search result, "No results found for <script>alert('hello')</script>"
+4) Also sanitized, no alert box triggered

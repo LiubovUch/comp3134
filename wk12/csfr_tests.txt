@@ -1,0 +1,1 @@
+When using csfr.html, the form submission fails because the confirmation token does not match. But with csfr_form.php, the correct token is submitted and validated, preventing CSRF attacks.
